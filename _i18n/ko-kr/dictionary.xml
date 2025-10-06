@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="532b36a42fa02f3df85b0e70d519a9ac" category="doc">E-시리즈 지원</block>
+  <block id="8060a341461a61edc489285d4c464062" category="paragraph">이제 BlueXP 에서 E-Series 시스템을 직접 검색할 수 있습니다.  E-Series 시스템을 발견하면 하이브리드 멀티클라우드 전반의 데이터를 완벽하게 볼 수 있습니다.</block>
+  <block id="1da5a40083bd16c3443e7eda42875506" category="doc">BlueXP 액세스 역할이 필요합니다</block>
+  <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link">BlueXP 액세스 역할에 대해 알아보세요.</block>
+  <block id="0366ff255ad441b45d52df443a7b3b55" category="paragraph">이제 BlueXP 에서 E-Series를 보거나 검색하거나 관리하려면 다음 액세스 역할 중 하나가 필요합니다. 조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자 또는 시스템 상태 전문가입니다. <block ref="0b85dd2db07f757bcca365b0bb453a52" category="inline-link-rx"></block></block>
+  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="doc">BlueXP 는 이제 NetApp 콘솔입니다.</block>
+  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp 콘솔은 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지와 NetApp 데이터 서비스를 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.</block>
+  <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">NetApp 콘솔 릴리스 노트</block>
+  <block id="9fad6bb6d30ac060d7377371e39b12c0" category="paragraph">변경된 사항에 대한 자세한 내용은 다음을 참조하세요.<block ref="a3987562479f1a66db4eec298b79e00c" category="inline-link-macro-rx"></block> .</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지 사항</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">법적 고지사항은 저작권 표시, 상표, 특허 등에 대한 정보를 제공합니다.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, NETAPP 로고 및 NetApp 상표 페이지에 나열된 마크는 NetApp, Inc.의 상표입니다. 다른 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 이 소유한 현재 특허 목록은 다음에서 확인할 수 있습니다.</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인정보 보호정책</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈소스</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">공지 파일은 NetApp 소프트웨어에서 사용되는 타사 저작권 및 라이선스에 대한 정보를 제공합니다.</block>
+  <block id="50dbf63cd0ab8144a287e5cd6a0f1de2" category="inline-link">NetApp 콘솔에 대한 알림</block>
+  <block id="e672b1ea49afca81ea77f91f12f606ea" category="paragraph"><block ref="e672b1ea49afca81ea77f91f12f606ea" category="inline-link-rx"></block></block>
+  <block id="3f301283c5ded45929fd62f4bfa67671" category="summary">NetApp 콘솔을 사용하면 온프레미스 환경에서 E-Series 시스템을 검색할 수 있습니다.  콘솔에 E-시리즈 시스템을 추가하면 하이브리드 멀티클라우드 환경 전반의 데이터를 완벽하게 파악할 수 있습니다.</block>
+  <block id="e4a9dd1c7d750241fad0d52a3bc7903b" category="doc">E-시리즈 시스템을 알아보세요</block>
+  <block id="b2a51899f83a8a5d64e65ab5fa2e675c" category="paragraph">NetApp 콘솔에 E-Series 시스템을 추가하면 콘솔에서 E-Series 시스템을 관리하고 하이브리드 멀티클라우드 환경 전반의 데이터 인프라를 완벽하게 파악할 수 있습니다.</block>
+  <block id="1c0afd8bffbeea6059a5f5fedd5fe377" category="paragraph-title">필수 NetApp 콘솔 역할</block>
+  <block id="dbbc09735940a2a21109b74dc600b92b" category="inline-link-macro">NetApp 콘솔 액세스 역할에 대해 알아보세요.</block>
+  <block id="5b961bbd1dd583bebaba59945684aa0d" category="paragraph">조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자 또는 시스템 상태 전문가. <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">시작하기 전에</block>
+  <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">다음이 필요합니다.</block>
+  <block id="d4a6e71a69daabc670296b6e5d940bcf" category="inline-link">귀하의 조직 관리자에게 문의하세요.</block>
+  <block id="7fff1f9ee7be655fe103cee433bc0db8" category="list-text">E-Series 시스템에 네트워크로 연결되어 클라우드 공급자나 사내에 설치된 NetApp 콘솔 에이전트입니다. 콘솔 에이전트를 설치하려면 조직 관리자 역할이 있어야 합니다.  귀하의 조직에 콘솔 에이전트가 있는지 확실하지 않거나 에이전트를 만들어야 하는 경우 콘솔 관리자에게 문의하세요.<block ref="0a429c936e168ea5991bcfda83872d22" category="inline-link-rx"></block></block>
+  <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소입니다.</block>
+  <block id="0c14e149f5bac18472d9c5989095d19e" category="list-text">E-Series 시스템의 관리자 자격 증명입니다.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
+  <block id="c27deb5ada399336a287848889d2032c" category="list-text">탐색 메뉴에서 *저장소 &gt; 관리*를 선택합니다.</block>
+  <block id="7f3f19386a813229841993e3417307ee" category="list-text">*시스템* 페이지에서 *추가*를 선택하고 *온프레미스*를 선택합니다.</block>
+  <block id="fd4854ee5e2a3643d9ffbf8e90ead3ef" category="list-text">*E-Series* 옆에서 *Discover*를 선택하세요.</block>
+  <block id="51ccfdd63a3a2273215183805bde7d64" category="list-text">_E-시리즈 클러스터 세부 정보_ 페이지에서 스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소, 시스템의 관리자 자격 증명을 입력한 다음 *추가*를 선택합니다.</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp 다양한 방법으로 BlueXP 에 대한 지원을 제공합니다. 지식 기반(KB) 문서와 커뮤니티 포럼 등 광범위한 무료 셀프 지원 옵션을 연중무휴 24시간 이용할 수 있습니다. 지원 등록 시 웹 티켓팅을 통한 원격 기술 지원이 제공됩니다.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으세요</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetApp 다양한 방법으로 NetApp Console과 클라우드 서비스에 대한 지원을 제공합니다. 지식 기반(KB) 문서와 커뮤니티 포럼 등 광범위한 무료 셀프 지원 옵션을 24시간 연중무휴로 이용할 수 있습니다. 지원 등록 시 웹 티켓팅을 통한 원격 기술 지원이 제공됩니다.</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">클라우드 공급자 파일 서비스에 대한 지원을 받으세요</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">클라우드 공급자 파일 서비스, 해당 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원에 대해서는 해당 제품의 설명서를 참조하세요.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP 용 Amazon FSx</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="list-text"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="153836c062a78213f2aa165322254aa4" category="list-text"><block ref="153836c062a78213f2aa165322254aa4" category="inline-link-macro-rx"></block></block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="0d592360c983f234b130127efee38805" category="list-text"><block ref="0d592360c983f234b130127efee38805" category="inline-link-macro-rx"></block></block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">NetApp 과 해당 스토리지 솔루션, 데이터 서비스에 대한 특정 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하세요.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">셀프 지원 옵션 사용</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">다음 옵션은 주 7일, 하루 24시간 무료로 이용 가능합니다.</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">설명서</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">현재 보고 있는 NetApp 콘솔 문서입니다.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">지식 기반</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">NetApp 지식 기반을 검색하여 문제 해결에 도움이 되는 문서를 찾아보세요.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">NetApp Console 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새로운 토론을 만들어 보세요.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">NetApp 지원을 통해 사례 만들기</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위에 나열된 셀프 지원 옵션 외에도, 지원을 활성화한 후 NetApp 지원 전문가와 협력하여 문제를 해결할 수 있습니다.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">시작하기 전에</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">콘솔 로그인과 관련된 자격 증명을 관리하는 방법을 알아보세요.</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">*사례 만들기* 기능을 사용하려면 먼저 NetApp 지원 사이트 자격 증명을 콘솔 로그인과 연결해야 합니다.<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block> .</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">일련 번호가 있는 ONTAP 시스템에 대한 사례를 개설하는 경우 NSS 계정은 해당 시스템의 일련 번호와 연결되어야 합니다.</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">NetApp 콘솔에서 *도움말 &gt; 지원*을 선택합니다.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">*리소스* 페이지에서 기술 지원 아래에 있는 사용 가능한 옵션 중 하나를 선택하세요.</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">전화로 상담원과 통화하고 싶으시면 *전화하기*를 선택하세요. netapp.com에서 전화할 수 있는 전화번호가 나열된 페이지로 이동하게 됩니다.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">NetApp 지원 전문가에게 티켓을 열려면 *사례 만들기*를 선택하세요.</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*서비스*: 문제와 관련된 서비스를 선택하세요. 예를 들어, * NetApp 콘솔*은 콘솔 내 워크플로나 기능에 대한 기술 지원 문제에 특화되어 있습니다.</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*시스템*: 스토리지에 해당되는 경우 * Cloud Volumes ONTAP* 또는 *온프레미스*를 선택한 다음 연관된 작업 환경을 선택합니다.</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">시스템 목록은 콘솔 조직 범위 내에 있으며, 상단 배너에서 선택한 콘솔 에이전트입니다.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*사례 우선순위*: 낮음, 보통, 높음 또는 중요로 사례의 우선순위를 선택합니다.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">이러한 우선순위에 대한 자세한 내용을 알아보려면 필드 이름 옆에 있는 정보 아이콘 위에 마우스를 올려놓으세요.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*문제 설명*: 해당 오류 메시지나 수행한 문제 해결 단계를 포함하여 문제에 대한 자세한 설명을 제공하세요.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*추가 이메일 주소*: 이 문제를 다른 사람에게 알리려면 추가 이메일 주소를 입력하세요.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*첨부파일(선택사항)*: 최대 5개의 첨부파일을 한 번에 하나씩 업로드하세요.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">첨부파일은 파일당 25MB로 제한됩니다. 다음 파일 확장자가 지원됩니다: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">NetApp 지원팀에 사례를 생성할 수 있는 사례 생성 양식의 스크린샷입니다.</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">당신이 완료한 후</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">지원 사례 번호가 포함된 팝업이 나타납니다. NetApp 지원 전문가가 귀하의 사례를 검토하고 곧 연락드릴 것입니다.</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">지원 사례 기록을 보려면 *설정 &gt; 타임라인*을 선택하고 "지원 사례 만들기"라는 이름의 작업을 찾으세요. 가장 오른쪽에 있는 버튼을 누르면 동작을 확장하여 자세한 내용을 볼 수 있습니다.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">사례를 생성하려고 할 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 사례를 생성할 권한이 없습니다."</block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">이 오류는 NSS 계정과 해당 계정과 연결된 기록상 회사가 NetApp 콘솔 계정 일련 번호에 대한 기록상 회사와 동일하지 않다는 것을 의미할 수 있습니다(예: 960xxxx) 또는 작업 환경 일련 번호. 다음 옵션 중 하나를 사용하여 도움을 요청할 수 있습니다.</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">비기술적 사례를 제출하세요<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">지원 사례 관리</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">콘솔에서 직접 활성화된 지원 사례와 해결된 지원 사례를 보고 관리할 수 있습니다. 귀하의 NSS 계정 및 회사와 관련된 사례를 관리할 수 있습니다.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">다음 사항에 유의하세요.</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">페이지 상단의 사례 관리 대시보드는 두 가지 보기를 제공합니다.</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">왼쪽 보기는 귀하가 제공한 NSS 계정 사용자에 의해 지난 3개월 동안 열린 총 사례를 보여줍니다.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">오른쪽 보기는 사용자 NSS 계정을 기준으로 지난 3개월 동안 회사 수준에서 열린 총 사례를 보여줍니다.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">표의 결과는 귀하가 선택한 보기와 관련된 사례를 반영합니다.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">관심 있는 열을 추가하거나 제거할 수 있으며, 우선순위 및 상태와 같은 열의 내용을 필터링할 수 있습니다. 다른 열은 정렬 기능만 제공합니다.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">자세한 내용은 아래 단계를 참조하세요.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">사례별로 사례 메모를 업데이트하거나 아직 닫힘 또는 닫힘 보류 상태가 아닌 사례를 닫는 기능을 제공합니다.</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">NetApp 콘솔에서 *도움말 &gt; 지원*을 선택합니다.</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">*사례 관리*를 선택하고 메시지가 표시되면 콘솔에 NSS 계정을 추가합니다.</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">*사례 관리* 페이지는 콘솔 사용자 계정과 연결된 NSS 계정과 관련된 미해결 사례를 표시합니다. 이는 *NSS 관리* 페이지 상단에 표시되는 NSS 계정과 동일합니다.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">필요에 따라 표에 표시되는 정보를 수정합니다.</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">*조직 사례*에서 *보기*를 선택하면 회사와 관련된 모든 사례를 볼 수 있습니다.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">정확한 날짜 범위를 선택하거나 다른 기간을 선택하여 날짜 범위를 수정하세요.</block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">열의 내용을 필터링합니다.</block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">표에 나타나는 플러스 아이콘</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text">표에 나타나는 열을 변경하려면 다음을 선택하세요.<block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block> 그런 다음 표시하려는 열을 선택합니다.</block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">표의 마지막 열에 나타나는 세 개의 점이 있는 아이콘</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text">기존 사례를 관리하려면 다음을 선택하세요.<block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block> 그리고 사용 가능한 옵션 중 하나를 선택하세요:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*사례 보기*: 특정 사례에 대한 전체 세부 정보를 확인하세요.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*사례 메모 업데이트*: 문제에 대한 추가 세부 정보를 제공하거나 *파일 업로드*를 선택하여 최대 5개의 파일을 첨부하세요.</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*사건 종결*: 사건을 종결하는 이유를 자세히 입력하고 *사건 종결*을 선택하세요.</block>
+  <block id="1e787f6c7fa361af379958de0d69217c" category="summary">더 이상 콘솔에서 E-Series 시스템을 관리하지 않으려면 NetApp 콘솔에서 해당 시스템을 제거하세요.</block>
+  <block id="b3537131b9a4be0fe4608ea85fca5a77" category="doc">NetApp 콘솔에서 E-Series 제거</block>
+  <block id="ef6cf5f3be8e27fa1c6ec52da3bc0e2a" category="paragraph">더 이상 NetApp 콘솔에서 E-Series 시스템을 관리하지 않으려면 해당 시스템을 제거하세요.</block>
+  <block id="5b3ccf57ef0ece7b51075a4b22ee3c2c" category="paragraph">조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자. <block ref="df85ea2f8ea618bf5b67be06e51eaa48" category="inline-link-macro-rx"></block></block>
+  <block id="f2f994bf92b922059ae6fb1b70f4aee6" category="paragraph">NetApp 콘솔 시스템을 제거해도 E-Series 시스템에는 영향을 미치지 않습니다.  언제든지 다시 발견할 수 있습니다.</block>
+  <block id="70d5b3c1fa57d5c2ed1d48b73f0079a9" category="list-text">*시스템* 페이지에서 E-Series 시스템을 선택하세요.</block>
+  <block id="b8dc050f4cabd621e66612bd76c5bb89" category="list-text">메뉴 아이콘을 선택하고 *작업 공간에서 제거*를 선택하세요.</block>
+  <block id="b7dd0331ad4ede9488c2fd01dda69e83" category="list-text">*제거*를 선택하여 확인하세요.</block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">NetApp 기술 지원팀에 지원 사례를 개설하려면 먼저 BlueXP 에 NetApp 지원 사이트 계정을 추가한 다음 지원을 위해 등록해야 합니다.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원 등록</block>
+  <block id="776abbf4d80cbef17bd3c86ff37b2257" category="paragraph">NetApp 콘솔과 해당 스토리지 솔루션, 데이터 서비스에 대한 기술 지원을 받으려면 지원 등록이 필요합니다. Cloud Volumes ONTAP 시스템의 주요 워크플로를 활성화하려면 지원 등록도 필요합니다.</block>
+  <block id="ba4e23e03f4354a0f1ef2781272c8477" category="paragraph">지원에 등록해도 클라우드 공급자 파일 서비스에 대한 NetApp 지원은 제공되지 않습니다. 클라우드 공급자 파일 서비스, 해당 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원에 대해서는 해당 제품 설명서의 "도움말 받기"를 참조하세요.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">지원 등록 개요</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">지원 자격을 활성화하기 위한 등록 방법은 두 가지가 있습니다.</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">NetApp 콘솔 계정 일련 번호를 등록합니다(콘솔의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호).</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">이는 콘솔 내의 모든 서비스에 대한 단일 지원 구독 ID 역할을 합니다. 각 콘솔 계정을 등록해야 합니다.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">클라우드 공급업체의 마켓플레이스에서 구독과 관련된 Cloud Volumes ONTAP 일련 번호를 등록합니다(20자리 909201xxxxxxxx 일련 번호).</block>
+  <block id="3cf9fb70d6921dd90583621f028a395f" category="paragraph">이러한 일련 번호는 일반적으로 _PAYGO 일련 번호_라고 하며 Cloud Volumes ONTAP 배포 시 NetApp 콘솔에서 생성됩니다.</block>
+  <block id="bf516b6498e37e816d29ae43ae132f74" category="paragraph">두 가지 유형의 일련 번호를 모두 등록하면 지원 티켓 개설 및 자동 사례 생성과 같은 기능을 사용할 수 있습니다. 아래 설명된 대로 콘솔에 NetApp 지원 사이트(NSS) 계정을 추가하여 등록을 완료합니다.</block>
+  <block id="ba5983207e417797fefd5b9374ab4a97" category="section-title">NetApp 지원을 위해 NetApp 콘솔 등록</block>
+  <block id="dcb7105ba6e3d9411b05e726848feb80" category="paragraph">지원을 등록하고 지원 자격을 활성화하려면 NetApp 콘솔 계정의 한 사용자가 NetApp 지원 사이트 계정을 콘솔 로그인과 연결해야 합니다. NetApp 지원에 등록하는 방법은 NetApp 지원 사이트(NSS) 계정이 있는지 여부에 따라 달라집니다.</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">NSS 계정이 있는 기존 고객</block>
+  <block id="ed5bddb699a442b85bc1bb8e1516fe57" category="paragraph">NSS 계정이 있는 NetApp 고객이라면 콘솔을 통해 지원을 등록하기만 하면 됩니다.</block>
+  <block id="76bc427c3d9c4b81dc353078b942f991" category="list-text">*관리* &gt; *자격 증명*을 선택합니다.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">*사용자 자격 증명*을 선택하세요.</block>
+  <block id="e9451600769b4bf4b20ca941ba9e6d19" category="list-text">*NSS 자격 증명 추가*를 선택하고 NetApp 지원 사이트(NSS) 인증 프롬프트를 따릅니다.</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">등록 과정이 성공적으로 완료되었는지 확인하려면 도움말 아이콘을 선택하고 *지원*을 선택하세요.</block>
+  <block id="1d4ea9fd10f6cfcd6f6fe1f861d354a4" category="paragraph">*리소스* 페이지에는 귀하의 콘솔 계정이 지원을 위해 등록되어 있다는 내용이 표시됩니다.</block>
+  <block id="afe8240ca62f4b72006980ff64d371b8" category="paragraph">다른 콘솔 사용자는 NetApp 지원 사이트 계정을 로그인과 연결하지 않은 경우 동일한 지원 등록 상태를 볼 수 없습니다. 하지만 그렇다고 해서 귀하의 계정이 지원을 위해 등록되지 않았다는 의미는 아닙니다. 조직 내 한 명의 사용자가 이러한 단계를 따랐다면 귀하의 계정은 등록되었습니다.</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">기존 고객이지만 NSS 계정이 없습니다.</block>
+  <block id="42eaca1e1c2d9e1f04e932eeaa6d129d" category="paragraph">기존 라이선스와 일련 번호는 있지만 NSS 계정이 없는 기존 NetApp 고객인 경우 NSS 계정을 만들고 콘솔 로그인과 연결해야 합니다.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 지원 사이트 사용자 등록 양식</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">다음을 완료하여 NetApp 지원 사이트 계정을 만드십시오.<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">일반적으로 * NetApp 고객/최종 사용자*인 적절한 사용자 수준을 선택하세요.</block>
+  <block id="bd33c4539c7d6985f6edafd4a4f2ba1d" category="list-text">위에 사용된 콘솔 계정 일련번호(960xxxx)를 일련번호 필드에 꼭 복사해 두세요. 이렇게 하면 계정 처리가 빨라집니다.</block>
+  <block id="9b1f48f88cd439b7a50fe3e76eb8a853" category="list-text">다음 단계를 완료하여 새 NSS 계정을 콘솔 로그인과 연결하세요.<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp 의 새로운 기능</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp 처음 사용하시고 NSS 계정이 없으신 경우 아래의 각 단계를 따르세요.</block>
+  <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 *지원*을 선택하세요.</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾으세요.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp 지원 등록 사이트</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">로 이동<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> *저는 등록된 NetApp 고객이 아닙니다*를 선택하세요.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">필수 입력란(빨간색 별표가 있는 항목)을 작성해 주세요.</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">*제품군* 필드에서 *클라우드 관리자*를 선택한 다음 해당 청구 제공자를 선택하세요.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">위의 2단계에서 계정 일련번호를 복사하고 보안 검사를 완료한 다음 NetApp의 글로벌 데이터 개인정보 보호정책을 읽었는지 확인하세요.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">이 안전한 거래를 마무리하기 위해 제공된 사서함으로 이메일이 즉시 전송됩니다. 몇 분 안에 인증 이메일이 도착하지 않으면 스팸 폴더를 확인하세요.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">이메일 내에서 작업을 확인하세요.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">확인을 클릭하면 귀하의 요청이 NetApp 에 ​​제출되고 NetApp 지원 사이트 계정을 만드는 것이 좋습니다.</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">위에 사용된 계정 일련번호(960xxxx)를 일련번호 필드에 꼭 복사해 두세요. 이렇게 하면 처리 속도가 빨라집니다.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">이 과정에서 NetApp 귀하에게 연락을 드릴 것입니다. 이는 신규 사용자를 대상으로 한 일회성 온보딩 과정입니다.</block>
+  <block id="629757336278be576456cf315303b178" category="paragraph">NetApp 지원 사이트 계정이 있으면 아래 단계를 완료하여 계정을 콘솔 로그인과 연결하세요.<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">Cloud Volumes ONTAP 지원을 위한 NSS 자격 증명 연결</block>
+  <block id="f22d1a855e255746a6b925a3b22f7838" category="paragraph">Cloud Volumes ONTAP 에 대한 다음 주요 워크플로를 활성화하려면 NetApp 지원 사이트 자격 증명을 콘솔 계정과 연결해야 합니다.</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">지원을 위해 Pay-as-you-go Cloud Volumes ONTAP 시스템 등록</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">시스템 지원을 활성화하고 NetApp 기술 지원 리소스에 액세스하려면 NSS 계정을 제공해야 합니다.</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">BYOL(Bring Your Own License)을 사용할 때 Cloud Volumes ONTAP 배포</block>
+  <block id="f3cd224f9506684fa3b5e2b89b2a566c" category="paragraph">콘솔에서 라이선스 키를 업로드하고 구매한 기간 동안 구독을 활성화하려면 NSS 계정을 제공해야 합니다. 여기에는 기간 갱신을 위한 자동 업데이트가 포함됩니다.</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Cloud Volumes ONTAP 소프트웨어를 최신 릴리스로 업그레이드</block>
+  <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">NSS 자격 증명을 NetApp 콘솔 계정과 연결하는 것은 콘솔 사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
+  <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">이러한 NSS 자격 증명은 특정 콘솔 계정 ID와 연결됩니다. 콘솔 조직에 속한 사용자는 *지원 &gt; NSS 관리*에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">*NSS 관리 &gt; NSS 계정 추가*를 선택하세요.</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">메시지가 표시되면 *계속*을 선택하여 Microsoft 로그인 페이지로 리디렉션됩니다.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 지원 및 라이선싱에 특화된 인증 서비스를 위한 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">로그인 페이지에서 NetApp 지원 사이트에 등록된 이메일 주소와 비밀번호를 입력하여 인증 과정을 진행합니다.</block>
+  <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">이러한 작업을 통해 콘솔은 라이선스 다운로드, 소프트웨어 업그레이드 확인, 향후 지원 등록과 같은 작업에 NSS 계정을 사용할 수 있습니다.</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS 계정은 고객 수준 계정이어야 합니다(게스트나 임시 계정이어서는 안 됩니다). 여러 개의 고객 수준 NSS 계정을 가질 수 있습니다.</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">해당 계정이 파트너 수준 계정인 경우 NSS 계정은 하나만 있을 수 있습니다. 고객 수준 NSS 계정을 추가하려고 하는데 파트너 수준 계정이 이미 있는 경우 다음과 같은 오류 메시지가 표시됩니다.</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">"이 계정에는 다른 유형의 NSS 사용자가 이미 있으므로 NSS 고객 유형이 허용되지 않습니다."</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">기존 고객 수준 NSS 계정이 있고 파트너 수준 계정을 추가하려는 경우에도 마찬가지입니다.</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">로그인에 성공하면 NetApp NSS 사용자 이름을 저장합니다.</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 수평 점으로 구성된 아이콘</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.</block>
+  <block id="48747586cc33252dbf6de35e44c34ea7" category="summary">E-Series 시스템을 검색한 후 용량 분포, 볼륨, 호스트에 대한 세부 정보를 볼 수 있습니다.</block>
+  <block id="a6bf4ab8bf30a856550c73d74c1973e1" category="doc">E-시리즈 시스템 보기</block>
+  <block id="34333d2783171ddc2c4a2d45b04576db" category="inline-link-macro">콘솔 액세스 역할에 대해 알아보세요.</block>
+  <block id="d2749ed7e224cdeb28989aa89857961d" category="paragraph">조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자 또는 시스템 상태 전문가. <block ref="42df8f700eadc46d3f2849494d83725a" category="inline-link-macro-rx"></block></block>
+  <block id="7624013584248ccbdf6a663e3d449c44" category="list-text">*시스템* 페이지에서 보고 싶은 E-Series 시스템을 선택하세요.</block>
+  <block id="b93d27c6ac0f969ed8d14696640cc791" category="list-text">E-Series 시스템에 대한 자세한 내용을 보려면 사용 가능한 메뉴 옵션을 선택하세요.</block>
+  <block id="120bdfb3dd832b139057f994d7d146df" category="list-text">*개요*: 시스템의 용량 분포(할당된 용량, 남은 용량, 할당되지 않은 용량), 볼륨 수, 호스트 등에 대한 자세한 보기입니다.</block>
+  <block id="9fccdfdbc370e982b3ce35b1add8049a" category="list-text">*볼륨*: 할당, RAID 수준, 할당된 용량 등을 포함한 시스템의 볼륨에 대한 세부 정보입니다.</block>
+  <block id="d9dd2d956a60f0b34b5143e1e91f8d00" category="list-text">*호스트*: 스토리지 시스템의 볼륨에 I/O를 보내는 호스트에 대한 세부 정보입니다.</block>
+  <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">BlueXP 에서 E-Series 시스템을 관리하는 새로운 방법을 알아보세요.</block>
+  <block id="8d6bb4ca1063ab855a4883d13637c8a9" category="doc">E-Series 관리의 새로운 기능</block>
+  <block id="624d3ca4c9ed7c55adc29ba0fa7c7d83" category="paragraph">NetApp 콘솔에서 E-Series 시스템을 관리하는 새로운 방법을 알아보세요.</block>
+  <block id="60cb699c3ab20c62c28cbc8ba6498f15" category="section-title">2025년 10월 6일</block>
+  <block id="e48502083eb8949c8f65b2ccddd5adec" category="section-title">2025년 5월 12일</block>
+  <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">2022년 9월 18일</block>
+  <block id="55da4a3644910775d9d30ede88b52e42" category="sidebar">NetApp 콘솔에서 E-Series 시스템을 검색하여 하이브리드 멀티클라우드 전반의 데이터를 완벽하게 파악하세요.</block>
+  <block id="ae36c6babb0825817280d77792a470d6" category="sidebar">BlueXP 사용한 E-Series 관리</block>
+  <block id="d909b1ed977f1659abbea545ee757e38" category="sidebar">NetApp 콘솔에서 E-Series 시스템을 검색하여 하이브리드 멀티클라우드 전반의 데이터를 완벽하게 확인하세요.</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하기</block>
+  <block id="b9196557da9e22849478c157e8570f9d" category="sidebar">E-Series 시스템 관리</block>
+  <block id="118da51e47a85cf865a6f6f610103b38" category="sidebar">NetApp 콘솔에서 시스템 제거</block>
+  <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="sidebar">관련 링크</block>
+  <block id="d21856281fd648356afd1be8eca19be7" category="sidebar">NetApp 콘솔 외부 관리를 위한 E-Series 설명서</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 및 커뮤니티</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">NetApp 콘솔</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp 데이터 서비스</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
+  <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">E-시리즈 문서</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 노트</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
+  <block id="73aa3abf81dd5e17c789fa2bc7ad6cb9" category="sidebar">NetApp 콘솔에서 시스템 제거</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식과 지원</block>
+</blocks>
