@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-remove-e-series.html 
 keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment, remove system 
-summary: 더 이상 콘솔에서 E-Series 시스템을 관리하지 않으려면 NetApp 콘솔에서 해당 시스템을 제거하세요. 
+summary: 더 이상 콘솔에서 E-Series 시스템을 관리하지 않으려면 NetApp Console 에서 해당 시스템을 제거하세요. 
 ---
-= NetApp 콘솔에서 E-Series 제거
+= NetApp Console 에서 E-Series 제거
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,12 +14,12 @@ summary: 더 이상 콘솔에서 E-Series 시스템을 관리하지 않으려면
 
 
 [role="lead"]
-더 이상 NetApp 콘솔에서 E-Series 시스템을 관리하지 않으려면 해당 시스템을 제거하세요.
+더 이상 NetApp Console 에서 관리하지 않으려면 E-Series 시스템을 제거하세요.
 
-.필수 NetApp 콘솔 역할
-조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetApp 콘솔 액세스 역할에 대해 알아보세요."^]
+.필수 NetApp Console 역할
+조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetApp Console 액세스 역할에 대해 알아보세요."^]
 
-NetApp 콘솔 시스템을 제거해도 E-Series 시스템에는 영향을 미치지 않습니다.  언제든지 다시 발견할 수 있습니다.
+NetApp Console 시스템을 제거해도 E-Series 시스템에는 영향을 미치지 않습니다.  언제든지 다시 발견할 수 있습니다.
 
 .단계
 . 탐색 메뉴에서 *저장소 > 관리*를 선택합니다.

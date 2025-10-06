@@ -16,7 +16,7 @@ summary: E-Series 시스템을 검색한 후 용량 분포, 볼륨, 호스트에
 [role="lead"]
 E-Series 시스템을 검색한 후 용량 분포, 볼륨, 호스트에 대한 세부 정보를 볼 수 있습니다.
 
-.필수 NetApp 콘솔 역할
+.필수 NetApp Console 역할
 조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자 또는 시스템 상태 전문가. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["콘솔 액세스 역할에 대해 알아보세요."^]
 
 .단계
