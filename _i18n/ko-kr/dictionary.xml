@@ -4,7 +4,6 @@
   <block id="8060a341461a61edc489285d4c464062" category="paragraph">이제 BlueXP 에서 E-Series 시스템을 직접 검색할 수 있습니다.  E-Series 시스템을 발견하면 하이브리드 멀티클라우드 전반의 데이터를 완벽하게 볼 수 있습니다.</block>
   <block id="1da5a40083bd16c3443e7eda42875506" category="doc">BlueXP 액세스 역할이 필요합니다</block>
   <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link">BlueXP 액세스 역할에 대해 알아보세요.</block>
-  <block id="0366ff255ad441b45d52df443a7b3b55" category="paragraph">이제 BlueXP 에서 E-Series를 보거나 검색하거나 관리하려면 다음 액세스 역할 중 하나가 필요합니다. 조직 관리자, 폴더 또는 프로젝트 관리자, 저장소 관리자 또는 시스템 상태 전문가입니다. <block ref="0b85dd2db07f757bcca365b0bb453a52" category="inline-link-rx"></block></block>
   <block id="bc2fe31b1e2682a9a79513d792e9c721" category="doc">BlueXP 는 이제 NetApp Console 입니다.</block>
   <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp Console 엔터프라이즈급 온프레미스 및 클라우드 환경에서 NetApp 스토리지와 NetApp Data Services 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.</block>
   <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">NetApp Console 릴리스 노트</block>
@@ -39,7 +38,6 @@
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">시작하기 전에</block>
   <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">다음이 필요합니다.</block>
   <block id="d4a6e71a69daabc670296b6e5d940bcf" category="inline-link">귀하의 조직 관리자에게 문의하세요.</block>
-  <block id="7fff1f9ee7be655fe103cee433bc0db8" category="list-text">E-Series 시스템에 네트워크로 연결되어 클라우드 공급자나 사내에 설치된 NetApp Console 에이전트입니다. 콘솔 에이전트를 설치하려면 조직 관리자 역할이 있어야 합니다.  귀하의 조직에 콘솔 에이전트가 있는지 확실하지 않거나 에이전트를 만들어야 하는 경우 콘솔 관리자에게 문의하세요.<block ref="0a429c936e168ea5991bcfda83872d22" category="inline-link-rx"></block></block>
   <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소입니다.</block>
   <block id="0c14e149f5bac18472d9c5989095d19e" category="list-text">E-Series 시스템의 관리자 자격 증명입니다.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
@@ -162,7 +160,6 @@
   <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 *지원*을 선택하세요.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾으세요.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp 지원 등록 사이트</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">로 이동<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> *저는 등록된 NetApp 고객이 아닙니다*를 선택하세요.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">필수 입력란(빨간색 별표가 있는 항목)을 작성해 주세요.</block>
@@ -185,7 +182,6 @@
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">이러한 NSS 자격 증명은 특정 콘솔 계정 ID와 연결됩니다. 콘솔 조직에 속한 사용자는 *지원 &gt; NSS 관리*에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">*NSS 관리 &gt; NSS 계정 추가*를 선택하세요.</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">메시지가 표시되면 *계속*을 선택하여 Microsoft 로그인 페이지로 이동합니다.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 지원 및 라이선싱에 특화된 인증 서비스를 위한 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
@@ -197,8 +193,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">기존 고객 수준 NSS 계정이 있고 파트너 수준 계정을 추가하려는 경우에도 마찬가지입니다.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">로그인에 성공하면 NetApp NSS 사용자 이름을 저장합니다.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 수평 점으로 구성된 아이콘</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.</block>
   <block id="48747586cc33252dbf6de35e44c34ea7" category="summary">E-Series 시스템을 검색한 후 용량 분포, 볼륨, 호스트에 대한 세부 정보를 볼 수 있습니다.</block>
   <block id="a6bf4ab8bf30a856550c73d74c1973e1" category="doc">E-시리즈 시스템 보기</block>
@@ -232,4 +226,10 @@
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
   <block id="73aa3abf81dd5e17c789fa2bc7ad6cb9" category="sidebar">NetApp Console 에서 시스템 제거</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식과 지원</block>
+  <block id="86f5447f0cf6a643e100103373cfbfc7" category="paragraph">이제 BlueXP에서 E-Series를 보거나, 검색하거나, 관리하려면 다음 액세스 역할 중 하나가 필요합니다: 조직 관리자, 폴더 또는 프로젝트 관리자, 스토리지 관리자 또는 시스템 상태 전문가.<block ref="67d9923d142bc889309fe2a134319bd9" category="inline-link-rx"></block></block>
+  <block id="3be4ed0450ee9d48b2449c3ececb81a7" category="list-text">클라우드 공급자 또는 온프레미스에 설치되고 E-Series 시스템에 네트워크로 연결된 NetApp Console 에이전트. Console 에이전트를 설치하려면 Organization 관리자 역할이 있어야 합니다. 조직에 Console 에이전트가 있는지 또는 생성이 필요한지 확실하지 않은 경우 Console 관리자에게 문의하십시오.<block ref="93464209ed656f62f6d4cbbd14ce92ac" category="inline-link-rx"></block></block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 갱신해야 하는 경우 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.</block>
 </blocks>

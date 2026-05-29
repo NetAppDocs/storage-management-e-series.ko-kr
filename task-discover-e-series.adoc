@@ -22,7 +22,7 @@ NetApp Console 에 E-Series 시스템을 추가하면 콘솔에서 E-Series 시�
 .시작하기 전에
 다음이 필요합니다.
 
-* E-Series 시스템에 네트워크로 연결되어 클라우드 공급자나 사내에 설치된 NetApp Console 에이전트입니다. 콘솔 에이전트를 설치하려면 조직 관리자 역할이 있어야 합니다.  귀하의 조직에 콘솔 에이전트가 있는지 확실하지 않거나 에이전트를 만들어야 하는 경우 콘솔 관리자에게 문의하세요. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["귀하의 조직 관리자에게 문의하세요."^]
+* 클라우드 공급자 또는 온프레미스에 설치되고 E-Series 시스템에 네트워크로 연결된 NetApp Console 에이전트. Console 에이전트를 설치하려면 Organization 관리자 역할이 있어야 합니다. 조직에 Console 에이전트가 있는지 또는 생성이 필요한지 확실하지 않은 경우 Console 관리자에게 문의하십시오. https://docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-admin["귀하의 조직 관리자에게 문의하세요."^]
 * 스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소입니다.
 * E-Series 시스템의 관리자 자격 증명입니다.
 
